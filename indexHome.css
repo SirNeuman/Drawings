@@ -1,0 +1,40 @@
+
+nav {
+    width: 80%;
+    margin: auto;
+}
+
+ol, ul {
+    font-family: 'Offside', sans-serif;
+    font-weight: 600;
+    border-top-style:groove;
+}
+
+li {
+    padding-top: 1em;
+    width: 10em;
+}
+
+li:hover {
+    color: #ffc754;
+}
+
+h1 {
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+header {
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+body {
+    background-color: 	#3dfcd0
+}
+
+#dog{
+    text-align: center;
+    
+    
+}
